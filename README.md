@@ -1,15 +1,14 @@
 # 🌟 Bulldog: AI vs Human Coding 🌟
 `A project exploring the effects of AI on coding by comparing AI-generated and human-written implementations of the Bulldog game.`
 
-# 🚀 Project Overview
-This repository includes two implementations of the Bulldog game along with a comparative report analyzing the differences between the AI-generated and human-written programs:
+## 🚀 Project Overview
+` This repository includes two implementations of the Bulldog game along with a comparative report analyzing the differences between the AI-generated and human-written programs:`
 
-📁 BulldogAI → Programs written by AI (ChatGPT-4).
-📁 BulldogME → Programs written by me.
-📁 A comparative report
+📁 **BulldogAI** → Programs written by AI (ChatGPT-4).  
+📁 **BulldogME** → Programs written by me.  
+📁 **A comparative report**  
 
-The goal of this project is to examine how AI-generated code compares to human-written code in structure, efficiency, accuracy, and usability.
-
+` The goal of this project is to examine how AI-generated code compares to human-written code in **structure, efficiency, accuracy, and usability**.`
 
 # 📋 How to use this repository
 ```bash
