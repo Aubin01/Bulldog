@@ -1,4 +1,4 @@
-package Bulldog;
+package BulldogME;
 
 public class FifteenPlayer extends Player {
     public FifteenPlayer(String name) {

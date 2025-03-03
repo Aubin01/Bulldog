@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Prog6 {
-
+    private static final int WINNING_SCORE = 104; // Define constant
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);
         ArrayList<Player> players = new ArrayList<>();
@@ -54,7 +54,7 @@ public class Prog6 {
                 player.setScore(player.getScore() + turnScore);
                 System.out.println("   " + player.getName() + "'s total score is now " + player.getScore() + ".");
 
-                if (player.getScore() >= 104) {
+                if (player.getScore() >= WINNING_SCORE) {
                     System.out.println("   " + player.getName() + " has won the game!");
                     gameOver = true;
                     break;
